@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Selenium 
+- 🌱 I’m currently learning handle comple web applications using Selenium
+- 🤔 I’m also applying for Jobs and ready to take up opportunities
+- 💬 Ask me about Java, Selenium, TestNG, Maven, Jenkins, Automation Testing
+
+
+
+
 <!--
 **rashmoni/rashmoni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
