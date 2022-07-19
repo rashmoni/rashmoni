@@ -1,9 +1,8 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on Selenium 
-- 🌱 I’m currently learning handle complex web applications using Selenium
-- 🤔 I’m also applying for Jobs and ready to take up opportunities
-- 💬 Ask me about Java, Selenium, TestNG, Maven, Jenkins, Automation Testing
+- 🔭 I’m currently working Java Summer Project
+- 🌱 I’m currently learning handle terminal based application using Java OOPS
+- 💬 Ask me about Java, Maven, Jenkins
 
 
 
