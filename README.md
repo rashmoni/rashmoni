@@ -3,7 +3,7 @@
 - 🔭 I’m currently working Java Summer Project
 - 🌱 I’m currently learning handle terminal based application using Advanced Java Concepts and building a frontend web application using react, typescript, javascript and bootstrap.
 - 🌱 I'm also learning software project management, agile software development.
-- 💬 Ask me about Java, Maven, Jenkins
+- 💬 Ask me about Spring Boot and React
 
 
 
